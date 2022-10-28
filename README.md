@@ -29,5 +29,5 @@
 
 ### Official Laravel Bootcamp
 
-
+- [bootcamp.laravel.com](https://bootcamp.laravel.com/)
 - [Laravel Breeze setup](https://bootcamp.laravel.com/inertia/installation#installing-laravel-breeze) - [docs](https://laravel.com/docs/9.x/starter-kits#laravel-breeze)
